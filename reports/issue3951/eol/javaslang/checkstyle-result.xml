@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.7-SNAPSHOT">
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/$.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/AbstractIterator.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Array.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/CharSeq.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Collections.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Comparators.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Foldable.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/HashArrayMappedTrie.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/HashMap.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/HashSet.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/IndexedSeq.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Iterator.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/LinearSeq.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/LinkedHashMap.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/LinkedHashSet.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/List.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Map.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Maps.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Queue.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/RedBlackTree.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Seq.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Set.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/SortedMap.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/SortedSet.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Stack.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Stream.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Traversable.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Tree.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/TreeMap.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/TreeSet.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/collection/Vector.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/concurrent/Future.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/concurrent/FutureImpl.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/concurrent/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/concurrent/Promise.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/control/Either.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/control/Option.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/control/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/control/Try.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/control/Validation.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/Kind1.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/Kind2.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/Lazy.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/MatchError.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/Predicates.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/Value.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/main/java/javaslang/λ.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/AbstractValueTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/AssertionsExtensions.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractIndexedSeqTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractLinearSeqTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractMapTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractSeqTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractSetTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractSortedMapTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractSortedSetTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractTraversableRangeTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/AbstractTraversableTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/ArrayTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/CharSeqTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler01Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler02Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler03Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler04Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler05Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler06Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler07Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler08Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler09Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler10Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler11Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler13Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler14Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler15Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler16Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler18Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler29Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler48Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler55Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler57Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler67Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler71Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Euler99Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/PrimeNumbers.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Sieve.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/euler/Utils.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/HashArrayMappedTrieTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/HashMapTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/HashSetTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/IntMap.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/IntMod2.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/IntMod2Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/IteratorTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/LinkedHashMapTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/LinkedHashSetTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/ListTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/QueueTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/RedBlackTreeTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/StackTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/StreamTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/StringTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/TreeMapTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/TreeSetTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/TreeTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/collection/VectorTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/concurrent/Concurrent.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/concurrent/FutureTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/concurrent/PromiseTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/concurrent/RejectingExecutorService.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/concurrent/TrivialExecutorService.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/EitherLeftProjectionTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/EitherRightProjectionTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/EitherTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/OptionTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/TryTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/control/ValidationTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/IterableTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/JavaCollections.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/LazyTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/MatchErrorTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/MatchTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/PredicatesTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/Serializables.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/TestComparators.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/TupleTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/javaslang/ValueTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src/test/java/outside_of_javaslang/IllegalAccessErrorTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/API.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction0.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction1.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction2.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction3.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction4.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction5.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction6.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction7.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/CheckedFunction8.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function0.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function1.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function2.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function3.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function4.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function5.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function6.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function7.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Function8.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple0.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple1.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple2.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple3.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple4.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple5.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple6.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple7.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/main/java/javaslang/Tuple8.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/APITest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction0Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction1Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction2Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction3Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction4Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction5Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction6Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction7Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/CheckedFunction8Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function0Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function1Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function2Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function3Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function4Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function5Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function6Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function7Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Function8Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple1Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple2Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple3Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple4Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple5Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple6Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple7Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang/src-gen/test/java/javaslang/Tuple8Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-benchmark/src/test/java/javaslang/benchmark/collection/HashSetBenchmark.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-benchmark/src/test/java/javaslang/benchmark/MicroBenchmark.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-benchmark/src/test/java/javaslang/collection/IteratorBenchmark.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-benchmark/src/test/java/javaslang/control/LazyBenchmark.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/annotation/Patterns.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/annotation/Unapply.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/generator/Generator.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/generator/ImportManager.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/model/ClassModel.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/model/MethodModel.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/model/ParameterModel.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/model/TypeParameterModel.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/PatternsProcessor.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-match/src/main/java/javaslang/match/UnapplyChecker.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/Applicative.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/BiFunctor.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/Functor.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/Monoid.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/main/java/javaslang/algebra/Semigroup.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src/test/java/javaslang/algebra/MonoidTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src-gen/main/java/javaslang/algebra/Monad.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-pure/src-gen/test/java/javaslang/algebra/MonadTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/main/java/javaslang/test/Arbitrary.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/main/java/javaslang/test/Checkable.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/main/java/javaslang/test/CheckResult.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/main/java/javaslang/test/Gen.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/main/java/javaslang/test/package-info.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/test/java/javaslang/test/ArbitraryTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/test/java/javaslang/test/CheckResultTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/test/java/javaslang/test/ConditionTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src/test/java/javaslang/test/GenTest.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/main/java/javaslang/test/Property.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck1Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck2Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck3Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck4Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck5Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck6Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck7Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyCheck8Test.java">
+</file>
+<file name="/Users/LuoLiangchen/personal/develop/java/checkstyle/contribution/checkstyle-tester/repositories/javaslang/javaslang-test/src-gen/test/java/javaslang/test/PropertyTest.java">
+</file>
+</checkstyle>
